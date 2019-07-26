@@ -18,6 +18,7 @@ def long_planeteer_calls(calls)
     calls.each do |call|
       if call.length < 5
         puts false
+      end
     end
     puts true
 end
