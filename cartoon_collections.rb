@@ -27,7 +27,7 @@ end
 def find_the_cheese(array)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-   dwarves_array.each_with_index do |dwarf, index|
-    puts "#{index+1} #{dwarf}"
+   array.each do |item|
+    if
     end
 end
