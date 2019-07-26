@@ -14,7 +14,7 @@ def summon_captain_planet(planeteer_calls)
     n_array
 end
 
-def long_planeteer_calls(calls))
+def long_planeteer_calls(calls)
     calls.each do |call|
       if !call
         puts false
