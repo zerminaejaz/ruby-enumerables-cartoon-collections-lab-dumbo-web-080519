@@ -14,13 +14,13 @@ def summon_captain_planet(planeteer_calls)
     n_array
 end
 
-# def long_planeteer_calls(calls))
-#     calls.each do |call|
-#       if !call
-#         puts false
-#     end
-#     puts true
-# end
+def long_planeteer_calls(calls))
+    calls.each do |call|
+      if !call
+        puts false
+    end
+    puts true
+end
 
 # def find_the_cheese# code an argument here
 #   # the array below is here to help
